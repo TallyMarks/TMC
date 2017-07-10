@@ -1647,41 +1647,41 @@
 	], 
 	"Notifications": [
 		{
-		  id: 1,
-		  title: 'Goods Received',
-		  date: '13.10.2016',
-		  description: 'This is test Notification',
-		  customer: 'Aluminium France Extrusion St Flore'
+		  "id": 1,
+		  "title": "Goods Received",
+		  "date": "13.10.2016",
+		  "description": "This is test Notification",
+		  "customer": "Aluminium France Extrusion St Flore"
 		}, {
-		  id: 2,
-		  title: 'Goods Received',
-		  date: '12.10.2016',
-		  description: 'This is test Notification',
-		  customer: 'Sav. Societa Alluminio veneto spa'
+		  "id": 2,
+		  "title": "Goods Received",
+		  "date": "12.10.2016",
+		  "description": "This is test Notification",
+		  "customer": "Sav. Societa Alluminio veneto spa"
 		}, {
-		  id: 3,
-		  title: 'Goods Received',
-		  date: '12.10.2016',
-		  description: 'This is test Notification',
-		  customer: 'IMET S.P.A'
+		  "id": 3,
+		  "title": "Goods Received",
+		  "date": "12.10.2016",
+		  "description": "This is test Notification",
+		  "customer": "IMET S.P.A"
 		}
 	],
 	"Customers" : [
 		{
-		  id: 1,
-		  customer: 'BMW AG'
+		  "id": 1,
+		  "customer": "BMW AG"
 		},
 		{
-		  id: 2,
-		  customer: 'Maxion Wheels Italia S.r.l'
+		  "id": 2,
+		  "customer": "Maxion Wheels Italia S.r.l"
 		},
 		{
-		  id: 3,
-		  customer: 'IMET S.P.A'
+		  "id": 3,
+		  "customer": "IMET S.P.A"
 		},
 		{
-		  id: 4,
-		  customer: 'BOAL S.V'
+		  "id": 4,
+		  "customer": "BOAL S.V"
 		}
 	],
 	"Orders": [
