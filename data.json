@@ -1649,7 +1649,7 @@
 		{
 			"SoId": "300000097",
 			"ApprovalStatus": "",
-			"Status": "Sent for Approval",
+			"Status": "Goods Received",
 			"ConfirmationStatus": "",
 			"BillingStatus": "Initial",
 			"OrderingStatus": "",
@@ -2042,7 +2042,7 @@
 		{
 			"SoId": "300000002",
 			"ApprovalStatus": "",
-			"Status": "Sent for Approval",
+			"Status": "Goods Received",
 			"ConfirmationStatus": "",
 			"BillingStatus": "Initial",
 			"OrderingStatus": "",
@@ -2193,7 +2193,7 @@
 		{
 			"SoId": "300000003",
 			"ApprovalStatus": "",
-			"Status": "Initial",
+			"Status": "Rejected",
 			"ConfirmationStatus": "",
 			"BillingStatus": "Initial",
 			"OrderingStatus": "",
@@ -2313,7 +2313,7 @@
 		{
 			"SoId": "300000004",
 			"ApprovalStatus": "",
-			"Status": "Approved for Delivery",
+			"Status": "Approved",
 			"ConfirmationStatus": "",
 			"BillingStatus": "Initial",
 			"OrderingStatus": "",
@@ -2437,7 +2437,7 @@
 		{
 			"SoId": "300000005",
 			"ApprovalStatus": "",
-			"Status": "Approved for Delivery",
+			"Status": "Approved",
 			"ConfirmationStatus": "",
 			"BillingStatus": "Initial",
 			"OrderingStatus": "",
@@ -2581,7 +2581,7 @@
 		{
 			"SoId": "300000006",
 			"ApprovalStatus": "",
-			"Status": "Initial",
+			"Status": "Rejected",
 			"ConfirmationStatus": "",
 			"BillingStatus": "Initial",
 			"OrderingStatus": "",
@@ -2660,7 +2660,7 @@
 		{
 			"SoId": "300000007",
 			"ApprovalStatus": "",
-			"Status": "Initial",
+			"Status": "Goods Received",
 			"ConfirmationStatus": "",
 			"BillingStatus": "Initial",
 			"OrderingStatus": "",
@@ -2819,7 +2819,7 @@
 		{
 			"SoId": "300000008",
 			"ApprovalStatus": "",
-			"Status": "Initial",
+			"Status": "Payment Processing",
 			"ConfirmationStatus": "",
 			"BillingStatus": "Initial",
 			"OrderingStatus": "",
@@ -2963,7 +2963,7 @@
 		{
 			"SoId": "300000009",
 			"ApprovalStatus": "",
-			"Status": "Invoice Processing",
+			"Status": "Payment Processing",
 			"ConfirmationStatus": "",
 			"BillingStatus": "Initial",
 			"OrderingStatus": "",
@@ -3055,7 +3055,7 @@
 		{
 			"SoId": "300000010",
 			"ApprovalStatus": "",
-			"Status": "Invoice Processing",
+			"Status": "Raise Invoice",
 			"ConfirmationStatus": "",
 			"BillingStatus": "Initial",
 			"OrderingStatus": "",
@@ -3186,7 +3186,7 @@
 		{
 			"SoId": "300000011",
 			"ApprovalStatus": "",
-			"Status": "Initial",
+			"Status": "Raise Invoice",
 			"ConfirmationStatus": "",
 			"BillingStatus": "Initial",
 			"OrderingStatus": "",
